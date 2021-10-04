@@ -1,0 +1,14 @@
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\netcoreapp3.1\StudentDatabaseLab.exe
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\netcoreapp3.1\StudentDatabaseLab.deps.json
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\netcoreapp3.1\StudentDatabaseLab.runtimeconfig.json
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\netcoreapp3.1\StudentDatabaseLab.runtimeconfig.dev.json
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\netcoreapp3.1\StudentDatabaseLab.dll
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\netcoreapp3.1\StudentDatabaseLab.pdb
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\netcoreapp3.1\StudentDatabaseLab.csproj.AssemblyReference.cache
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\netcoreapp3.1\StudentDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\netcoreapp3.1\StudentDatabaseLab.AssemblyInfoInputs.cache
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\netcoreapp3.1\StudentDatabaseLab.AssemblyInfo.cs
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\netcoreapp3.1\StudentDatabaseLab.csproj.CoreCompileInputs.cache
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\netcoreapp3.1\StudentDatabaseLab.dll
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\netcoreapp3.1\StudentDatabaseLab.pdb
+C:\Users\radee\source\repos\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\netcoreapp3.1\StudentDatabaseLab.genruntimeconfig.cache
